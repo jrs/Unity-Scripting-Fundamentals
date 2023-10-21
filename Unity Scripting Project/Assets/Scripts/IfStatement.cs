@@ -26,6 +26,7 @@ public class IfStatement : MonoBehaviour
         {
             // run this code if the conditon was false
             Debug.Log("You still needed points.");
+            print("This is a print");
         }
     }
 
