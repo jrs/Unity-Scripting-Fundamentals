@@ -38,4 +38,5 @@ public class FunctionsAndMethods : MonoBehaviour
     {
         transform.Translate(Vector3.forward);
     }
+    
 }
